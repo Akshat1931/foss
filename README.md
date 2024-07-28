@@ -2,7 +2,7 @@
 
 Image encrypter:
 
-It can be used  to encrypt message to the images and can be send with end to end encryption.
+It can be used  to encrypt message to the images and can be sent with end to end encryption.
 
 Every image is collection of multiple pixels. Each of these pixels is defined by a 24 bit RGB value, 8 for each R,B & G. 
 If LSB of this value is modified, then change is so minimal that it is undetectable to human eyes. I took advantage of it by replacing LSB bit to a message bit. This is called as image steganography.
