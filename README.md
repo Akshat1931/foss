@@ -1,4 +1,4 @@
-#Project info
+# Project info
 
 Image encrypter:
 
